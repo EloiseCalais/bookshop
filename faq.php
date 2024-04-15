@@ -73,7 +73,7 @@ if(!isset($user_id)){
 
 <div class="heading">
    <h3>Frequently Asked Questions</h3>
-   <p> <a href="home.php">Home</a> / FAQ </p>
+   <p> <a href="index.html">Home</a> / FAQ </p>
 </div>
 
 <section class="faq">
